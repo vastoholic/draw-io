@@ -1,0 +1,58 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.0.4 Chrome/128.0.6613.186 Electron/32.2.5 Safari/537.36" version="26.0.4">
+  <diagram name="Page-1" id="cfL7iGKY2mURpYe6PcZ0">
+    <mxGraphModel dx="2058" dy="928" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="856" pageHeight="252" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="NLhtINBRl-UlREIt9bTw-2" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=180;size=40;strokeColor=none;fillColor=#A8A8A8;" parent="1" vertex="1">
+          <mxGeometry y="477" width="855" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="NLhtINBRl-UlREIt9bTw-1" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#F5F5F5;arcSize=1;" parent="1" vertex="1">
+          <mxGeometry y="252" width="855" height="226" as="geometry" />
+        </mxCell>
+        <mxCell id="NLhtINBRl-UlREIt9bTw-4" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;gradientColor=#A8A8A8;gradientDirection=west;fillColor=#F5F5F5;rotation=180;arcSize=3;" parent="1" vertex="1">
+          <mxGeometry x="823" y="252" width="32" height="226" as="geometry" />
+        </mxCell>
+        <mxCell id="Vi-5uCItlHWZnlG3trif-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#1A1A1A;strokeWidth=2;strokeColor=#6E6E6E;" vertex="1" parent="1">
+          <mxGeometry x="324" y="261" width="208" height="208" as="geometry" />
+        </mxCell>
+        <mxCell id="Vi-5uCItlHWZnlG3trif-2" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#00003D;strokeWidth=2;strokeColor=#00000F;gradientColor=#000024;gradientDirection=radial;" vertex="1" parent="1">
+          <mxGeometry x="338" y="275" width="180" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="Vi-5uCItlHWZnlG3trif-4" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=none;shadow=0;dashed=0;shape=mxgraph.ios7.icons.settings;fillColor=#EEEEEE;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="419" y="285" width="18" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="Vi-5uCItlHWZnlG3trif-5" value="Stereo" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#EEEEEE;fontFamily=Tahoma;" vertex="1" parent="1">
+          <mxGeometry x="415" y="334" width="40" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="Vi-5uCItlHWZnlG3trif-6" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#EEEEEE;" vertex="1" parent="1">
+          <mxGeometry x="400" y="335" width="15" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="Vi-5uCItlHWZnlG3trif-14" value="Living Room" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#EEEEEE;fontSize=17;fontStyle=1;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="372.5" y="355" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Vi-5uCItlHWZnlG3trif-10" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#00003D;fillColor=#EEEEEE;container=0;" vertex="1" parent="1">
+          <mxGeometry x="403.5" y="336" width="8" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="Vi-5uCItlHWZnlG3trif-11" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#EEEEEE;container=0;" vertex="1" parent="1">
+          <mxGeometry x="405" y="335" width="5" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="Vi-5uCItlHWZnlG3trif-7" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#00003D;fillColor=#EEEEEE;container=0;" vertex="1" parent="1">
+          <mxGeometry x="405.5" y="338" width="4" height="4" as="geometry" />
+        </mxCell>
+        <mxCell id="Vi-5uCItlHWZnlG3trif-18" value="" style="group;aspect=fixed;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="417" y="428" width="21" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="Vi-5uCItlHWZnlG3trif-15" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=none;fillColor=#EEEEEE;" vertex="1" parent="Vi-5uCItlHWZnlG3trif-18">
+          <mxGeometry width="21" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="Vi-5uCItlHWZnlG3trif-16" value="" style="triangle;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=none;fillColor=#000024;" vertex="1" parent="Vi-5uCItlHWZnlG3trif-18">
+          <mxGeometry x="8.4" y="6.775999999999965" width="5.6000000000000005" height="7.462000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="Vi-5uCItlHWZnlG3trif-22" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;gradientColor=#A8A8A8;gradientDirection=west;fillColor=#F5F5F5;rotation=0;arcSize=3;" vertex="1" parent="1">
+          <mxGeometry y="252" width="32" height="226" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
